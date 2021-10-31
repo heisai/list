@@ -11,7 +11,7 @@
 
   
   |方法|描述|
-  |  ----  | ----  |
+  |  :----:  | :----:  |
   |iterator begin()|头部迭代器械|
   |iterator end()|尾部迭代器|
   |void push_back(T value)|尾部添加一个元素|
@@ -32,7 +32,7 @@
 + ### protected 方法:
  
   |方法|描述|
-  |  ----  | ----  |
+  |  :----:  | :----:  |
   |void destory(linknode position)|清除内部节点内存(erase 内部调用)|
   
   
